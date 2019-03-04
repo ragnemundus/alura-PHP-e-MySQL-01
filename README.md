@@ -1,10 +1,10 @@
 # PHP e MySQL I: Fundamentos para criar um sistema na Web
 
-## Aula 03 : Criando funções no PHP.
+## Aula 04 : Listando todos os produtos
 
-1. Criando a primeira função
-2. Usando a função
-3. Colocando menus
-4. Melhorando o formulário
-5. mysqli_error
-6. Muitas funções?
+1. Listando todos os produtos
+2. conecta.php
+3. Inclua nos outros arquivos
+4. Listando os produtos
+5. Não fechar o php
+6. Isolando a conexão
