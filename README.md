@@ -1,10 +1,9 @@
 # PHP e MySQL I: Fundamentos para criar um sistema na Web
 
-## Aula 04 : Listando todos os produtos
+## Aula 05 : Melhorando a listagem de produtos
 
-1. Listando todos os produtos
-2. conecta.php
-3. Inclua nos outros arquivos
-4. Listando os produtos
-5. Não fechar o php
-6. Isolando a conexão
+1. Melhorando a listagem de produtos
+2. Função de lista de produtos
+3. banco-produto.php
+4. Melhorando a listagem de produto
+5. Fechando o foreach
