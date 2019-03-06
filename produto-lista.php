@@ -14,9 +14,10 @@
         foreach($produtos as $produto) :
     ?>
     <tr>
-        <td><?=$produto['nome']?></td>
+        <td><?=$produto['produto']?></td>
         <td><?=$produto['preco']?></td>
         <td><?=substr($produto['descricao'], 0, 40)?></td>
+        <td><?=$produto['categoria']?></td>
         <td>
             <form action="remove-produto.php" method="post">
                 <input type="hidden" name="id" value="<?=$produto['id']?>">
