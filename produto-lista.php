@@ -19,9 +19,16 @@
         <td><?=substr($produto['descricao'], 0, 40)?></td>
         <td><?=$produto['categoria']?></td>
         <td>
+            <a class="btn btn-primary" href="produto-altera-formulario.php?id=<?=$produto['id']?>">
+                <span class="glyphicon glyphicon-edit" aria-hidden="true"></span> Alterar
+            </a>
+        </td>
+        <td>
             <form action="remove-produto.php" method="post">
                 <input type="hidden" name="id" value="<?=$produto['id']?>">
-                <button class="btn btn-danger" class="text-danger">remover</button>
+                <button class="btn btn-danger">
+                    <span class="glyphicon glyphicon-remove" aria-hidden="true"></span> Excluir
+                </button>
             </form>
         </td>
     </tr>
