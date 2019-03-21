@@ -1,7 +1,5 @@
 # PHP e MySQL I: Fundamentos para criar um sistema na Web
 
-<<<<<<< HEAD
-=======
 ## Aula 10 : Alterando produtos
 
 1. Alterando produtos
@@ -55,4 +53,3 @@
     INSERT INTO categorias (nome) VALUES ('escolar'), ('esporte'), ('mobilidade'), ('guloseimas');
 
     ```
->>>>>>> AULA_11
