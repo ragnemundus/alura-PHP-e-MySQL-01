@@ -2,13 +2,9 @@
 
 ## Aula 01 : Primeiros passos com PHP
 
-1. Primeiro passos com PHP
-2. PHP, sintaxe básica I
-3. Praticando a sintaxe I
-4. PHP, sintaxe básica II
-5. Praticando a sintaxe II
-7. Criando o primeiro HTML
-8. Primeira versão do adiciona-produto
-9. Exibindo preço
-10. Criando formulário
-11. Cabeçalho e rodapé
+- Apresentação do curso.
+- Configuração do ambiente.
+- Sintaxe básica do PHP I: criação da página 'index.php'.
+- Sintaxe básica do PHP II: Criação da página 'adiciona-produto.php'.
+- Adicionando bootstrap ao projeto.
+- reorganizando (refatorando) cabeçalho e rodapé.
